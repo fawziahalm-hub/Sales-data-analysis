@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Product,Category,Region,Quantity,Unit_Price_SAR,Sales_SAR,Payment_Method
+ORD-1001,2026-01-03,Wireless Mouse,Accessories,Riyadh,3,75,225,Card
+ORD-1002,2026-01-05,Laptop Stand,Accessories,Jeddah,2,120,240,Mada
+ORD-1003,2026-01-08,Keyboard,Accessories,Dammam,4,95,380,Card
+ORD-1004,2026-01-12,USB-C Hub,Accessories,Riyadh,2,150,300,Mada
+ORD-1005,2026-01-15,Webcam,Electronics,Jeddah,3,210,630,Cash
+ORD-1006,2026-01-18,Headphones,Electronics,Dammam,2,280,560,Card
+ORD-1007,2026-01-22,Monitor,Electronics,Riyadh,1,850,850,Mada
+ORD-1008,2026-01-25,Keyboard,Accessories,Jeddah,5,95,475,Card
+ORD-1009,2026-02-02,Wireless Mouse,Accessories,Dammam,6,75,450,Mada
+ORD-1010,2026-02-06,Laptop Stand,Accessories,Riyadh,3,120,360,Card
